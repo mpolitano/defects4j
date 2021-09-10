@@ -82,7 +82,7 @@ if [ "$D4J_DEBUG" == "1" ]; then
   --selection-log=$D4J_DIR_OUTPUT/selection-log.txt"
 fi
 
-echo $cmd > BUILDERS_SRC/experimental/randoopJarBuildersPublicFalse/cmd.txt
+echo $cmd > $BUILDERS_SRC/experimental/randoopJarBuildersPublicFalse/cmd.txt
 
 
 # Run the test-generation command
