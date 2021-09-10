@@ -83,7 +83,6 @@ if [ "$D4J_DEBUG" == "1" ]; then
 fi
 
 mkdir -p $BUILDERS_SRC/experimental/$version/randoopJarBuildersPublicFalse/
-touch $BUILDERS_SRC/experimental/$version/randoopJarBuildersPublicFalse/cmd.txt
 echo $cmd > $BUILDERS_SRC/experimental/$version/randoopJarBuildersPublicFalse/cmd.txt
 
 

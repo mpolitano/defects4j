@@ -83,7 +83,6 @@ if [ "$D4J_DEBUG" == "1" ]; then
 fi
 
 mkdir -p $BUILDERS_SRC/experimental/$version/randoopJarBuilders/
-touch $BUILDERS_SRC/experimental/$version/randoopJarBuilders/cmd.txt
 echo $cmd > $BUILDERS_SRC/experimental/$version/randoopJarBuilders/cmd.txt
 # Run the test-generation command
 if ! exec_cmd "$cmd"; then

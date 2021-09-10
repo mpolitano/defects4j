@@ -83,7 +83,6 @@ if [ "$D4J_DEBUG" == "1" ]; then
 fi
 
 mkdir -p $BUILDERS_SRC/experimental/$version/randoop/
-touch $BUILDERS_SRC/experimental/$version/randoop/cmd.txt
 echo $cmd > $BUILDERS_SRC/experimental/$version/randoop/cmd.txt
 
 
