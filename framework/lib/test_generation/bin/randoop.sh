@@ -82,7 +82,8 @@ if [ "$D4J_DEBUG" == "1" ]; then
   --selection-log=$D4J_DIR_OUTPUT/selection-log.txt"
 fi
 
-touch $BUILDERS_SRC/experimental/randoopJarBuildersPublicFalse/cmd.txt
+mkdir -p $BUILDERS_SRC/experimental/randoop/
+touch $BUILDERS_SRC/experimental/randoop/cmd.txt
 echo $cmd > $BUILDERS_SRC/experimental/randoop/cmd.txt
 
 
