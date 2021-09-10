@@ -50,7 +50,7 @@ fi
 
 
 #Mariano
-cp $D4J_DIR_WORKDIR/classes.randoop $BUILDERS_HOME
+cp $D4J_DIR_WORKDIR/classes.randoop $BUILDERS_SRC
 # Name of the wrapper regression test suite
 REG_BASE_NAME=RegressionTest
 ERR_BASE_NAME=ErrorTest

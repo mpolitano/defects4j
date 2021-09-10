@@ -9,3 +9,6 @@
 --null-ratio=0.1
 --only-test-public-members=false
 --omitmethods=HashCodeAndEqualsSafeSet.of
+--generic-types-heuristic
+--use-builder-inputs-in-nonbuilder-seq-prob
+--select-builder-prob 
