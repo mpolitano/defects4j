@@ -32,7 +32,7 @@ source $D4J_DIR_TESTGEN_BIN/_tool.source
 project_cp=$(get_project_cp)
 
 # Read all additional configuration parameters
-add_config=$(parse_config $D4J_DIR_TESTGEN_BIN/randoop.config)
+add_config=$(parse_config $D4J_DIR_TESTGEN_BIN/randopPublicFalse.config)
 
 # Make sure the provided test mode is supported
 if [ $D4J_TEST_MODE == "regression" ]; then
@@ -82,7 +82,7 @@ if [ "$D4J_DEBUG" == "1" ]; then
   --selection-log=$D4J_DIR_OUTPUT/selection-log.txt"
 fi
 
-echo $cmd > BUILDERS_SRC/experimental/randoop/cmd.txt
+echo $cmd > BUILDERS_SRC/experimental/randoopPublicFalse/cmd.txt
 
 
 # Run the test-generation command
