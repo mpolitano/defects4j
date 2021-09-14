@@ -56,7 +56,7 @@ REG_BASE_NAME=RegressionTest
 ERR_BASE_NAME=ErrorTest
 
 # Print Randoop version
-version=$(java -cp $D4J_DIR_TESTGEN_LIB/randoop-current.jar randoop.main.Main | head -1)
+version=$(java -cp $D4J_DIR_TESTGEN_LIB/randoopChanged.jar randoop.main.Main | head -1)
 printf "\n(%s)" "$version" >&2
 printf ".%.0s" {1..expr 73 - length "$version"} >&2
 printf " " >&2
