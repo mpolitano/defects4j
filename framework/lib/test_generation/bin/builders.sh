@@ -102,6 +102,9 @@ if ! exec_cmd "$cmd"; then
     exit 1
 fi
 
+mkdir -p $BUILDERS_SRC/experimental/builders/
+echo ${cmd} > $BUILDERS_SRC/experimental/builders/cmd.txt
+
 # Remove wrapper test suites, which are not used by Defects4J.
 rm -f "$D4J_DIR_OUTPUT/${REG_BASE_NAME}.java"
 rm -f "$D4J_DIR_OUTPUT/${ERR_BASE_NAME}.java"
