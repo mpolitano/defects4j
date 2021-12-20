@@ -10,5 +10,10 @@
 --only-test-public-members=false
 --omitmethods=HashCodeAndEqualsSafeSet.of
 --generic-types-heuristic
---use-builder-inputs-in-nonbuilder-seq-prob
---select-builder-prob 
+--use-builder-inputs-in-nonbuilder-seq-prob=0.9
+--select-builder-prob=0.7
+--disable-contracts=true
+--generic-types-heuristic=false
+--select-builder-constructor-prob=0.7
+--select-non-builder-constructor-prob=0.1
+
