@@ -76,11 +76,11 @@ randoop.main.Main gentests \
   --error-test-basename=$ERR_BASE_NAME \
   $add_config"
 
-if [ "$D4J_DEBUG" == "1" ]; then
+#if [ "$D4J_DEBUG" == "1" ]; then
   cmd="$cmd \
   --log=$D4J_DIR_OUTPUT/randoop-log.txt \
   --selection-log=$D4J_DIR_OUTPUT/selection-log.txt"
-fi
+#fi
 
 mkdir -p $BUILDERS_SRC/experimental/randoop/
 echo ${cmd} > $BUILDERS_SRC/experimental/randoop/cmd.txt

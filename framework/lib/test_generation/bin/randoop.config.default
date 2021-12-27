@@ -3,7 +3,7 @@
 #
 # All commented lines are ignored.
 #
---flaky-test-behavior=output
+--flaky-test-behavior=discard
 --string-maxlen=5000
 --forbid-null=false
 --null-ratio=0.1
