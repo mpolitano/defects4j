@@ -76,7 +76,7 @@ echo "Running builders"
 
 
 # Build the test-generation command
-cmd="java -ea -classpath $project_cp:$D4J_DIR_TESTGEN_LIB/randoopChanged.jar \
+cmd="java -Xmx16g -ea -classpath $project_cp:$D4J_DIR_TESTGEN_LIB/randoopChanged.jar \
   -Xbootclasspath/a:$D4J_DIR_TESTGEN_LIB/replacecall-current.jar \
   -javaagent:$D4J_DIR_TESTGEN_LIB/replacecall-current.jar \
   -javaagent:$D4J_DIR_TESTGEN_LIB/covered-class-current.jar \
