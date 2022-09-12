@@ -1,0 +1,26 @@
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:18:59  ######
+Mode: regression
+Parameters:
+ -g buiders_generic
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-buiders_generic.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/buiders_generic/5/Collections/buiders_generic/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:19:14  ######
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 07:32:11  ######
+Mode: regression
+Parameters:
+ -g buiders_generic
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-buiders_generic.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/buiders_generic/5/Collections/buiders_generic/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 07:32:31  ######

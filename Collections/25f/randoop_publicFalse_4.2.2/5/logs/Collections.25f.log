@@ -1,0 +1,78 @@
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:28:19  ######
+Mode: regression
+Parameters:
+ -g randoop_publicFalse
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop_publicFalse.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop_publicFalse_4.2.2/5/Collections/randoop_publicFalse/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:28:30  ######
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:31:09  ######
+Mode: regression
+Parameters:
+ -g randoop_publicFalse
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop_publicFalse.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop_publicFalse_4.2.2/5/Collections/randoop_publicFalse/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:31:26  ######
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:37:25  ######
+Mode: regression
+Parameters:
+ -g randoop_publicFalse
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop_publicFalse.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop_publicFalse_4.2.2/5/Collections/randoop_publicFalse/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:37:41  ######
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:51:47  ######
+Mode: regression
+Parameters:
+ -g randoop_publicFalse
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop_publicFalse.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop_publicFalse_4.2.2/5/Collections/randoop_publicFalse/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:52:14  ######
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:53:31  ######
+Mode: regression
+Parameters:
+ -g randoop_publicFalse
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop_publicFalse.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop_publicFalse_4.2.2/5/Collections/randoop_publicFalse/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:53:47  ######
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 07:26:52  ######
+Mode: regression
+Parameters:
+ -g randoop_publicFalse
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop_publicFalse.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop_publicFalse_4.2.2/5/Collections/randoop_publicFalse/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 07:27:17  ######

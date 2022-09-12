@@ -1,0 +1,39 @@
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:16:29  ######
+Mode: regression
+Parameters:
+ -g randoop_publicFalse
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop_publicFalse.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop_publicFalse/5/Collections/randoop_publicFalse/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:16:42  ######
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:21:42  ######
+Mode: regression
+Parameters:
+ -g randoop_publicFalse
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop_publicFalse.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop_publicFalse/5/Collections/randoop_publicFalse/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:21:58  ######
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:24:19  ######
+Mode: regression
+Parameters:
+ -g randoop_publicFalse
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop_publicFalse.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop_publicFalse/5/Collections/randoop_publicFalse/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:24:31  ######

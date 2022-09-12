@@ -1,0 +1,91 @@
+######  Start test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-27 00:14:05  ######
+Mode: regression
+Parameters:
+ -g builders
+ -p Collections
+ -v 28f
+ -n 1
+ -b 300
+ -c /home/investigador/mpolitano/defects4j/framework/projects/Collections/modified_classes/28.src
+ -s 1028
+Created test suite archive: Collections-28f-builders.1.tar.bz2
+Moved test suite archive to output directory: Collections/28f/builders/300/Collections/builders/1
+######  End test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-27 00:19:38  ######
+######  Start test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-27 09:41:14  ######
+Mode: regression
+Parameters:
+ -g builders
+ -p Collections
+ -v 28f
+ -n 1
+ -b 300
+ -c /home/investigador/mpolitano/defects4j/framework/projects/Collections/modified_classes/28.src
+ -s 1028
+Created test suite archive: Collections-28f-builders.1.tar.bz2
+Moved test suite archive to output directory: Collections/28f/builders/300/Collections/builders/1
+######  End test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-27 09:49:24  ######
+######  Start test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-27 17:58:42  ######
+Mode: regression
+Parameters:
+ -g builders
+ -p Collections
+ -v 28f
+ -n 1
+ -b 300
+ -c /home/investigador/mpolitano/defects4j/framework/projects/Collections/modified_classes/28.src
+ -s 1028
+Created test suite archive: Collections-28f-builders.1.tar.bz2
+Moved test suite archive to output directory: Collections/28f/builders/300/Collections/builders/1
+######  End test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-27 18:12:00  ######
+######  Start test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-28 10:47:53  ######
+Mode: regression
+Parameters:
+ -g builders
+ -p Collections
+ -v 28f
+ -n 1
+ -b 300
+ -c /home/investigador/mpolitano/defects4j/framework/projects/Collections/modified_classes/28.src
+ -s 1028
+Created test suite archive: Collections-28f-builders.1.tar.bz2
+Moved test suite archive to output directory: Collections/28f/builders/300/Collections/builders/1
+######  End test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-28 11:02:35  ######
+######  Start test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-29 15:28:50  ######
+Mode: regression
+Parameters:
+ -g builders
+ -p Collections
+ -v 28f
+ -n 1
+ -b 300
+ -c /home/investigador/mpolitano/defects4j/framework/projects/Collections/modified_classes/28.src
+ -s 1028
+Created test suite archive: Collections-28f-builders.1.tar.bz2
+Moved test suite archive to output directory: Collections/28f/builders/300/Collections/builders/1
+######  End test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-29 15:34:11  ######
+######  Start test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-29 21:11:50  ######
+Mode: regression
+Parameters:
+ -g builders
+ -p Collections
+ -v 28f
+ -n 1
+ -b 300
+ -c /home/investigador/mpolitano/defects4j/framework/projects/Collections/modified_classes/28.src
+ -s 1028
+Created test suite archive: Collections-28f-builders.1.tar.bz2
+Moved test suite archive to output directory: Collections/28f/builders/300/Collections/builders/1
+######  End test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-29 21:17:10  ######
+######  Start test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-30 06:15:49  ######
+Mode: regression
+Parameters:
+ -g builders
+ -p Collections
+ -v 28f
+ -n 1
+ -b 300
+ -c /home/investigador/mpolitano/defects4j/framework/projects/Collections/modified_classes/28.src
+ -s 1028
+Created test suite archive: Collections-28f-builders.1.tar.bz2
+Moved test suite archive to output directory: Collections/28f/builders/300/Collections/builders/1
+######  End test generation  /home/investigador/mpolitano/defects4j/framework/bin/gen_tests.pl: 2021-08-30 06:21:22  ######

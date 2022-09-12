@@ -1,0 +1,52 @@
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-13 22:16:26  ######
+Mode: regression
+Parameters:
+ -g randoop
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop/5/Collections/randoop/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-13 22:16:38  ######
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-13 22:18:34  ######
+Mode: regression
+Parameters:
+ -g randoop
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop/5/Collections/randoop/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-13 22:18:46  ######
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-13 22:25:24  ######
+Mode: regression
+Parameters:
+ -g randoop
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop/5/Collections/randoop/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-13 22:25:36  ######
+######  Start test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:17:16  ######
+Mode: regression
+Parameters:
+ -g randoop
+ -p Collections
+ -v 25f
+ -n 1
+ -b 5
+ -c /Users/mpolitano/development/builders/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 1025
+Created test suite archive: Collections-25f-randoop.1.tar.bz2
+Moved test suite archive to output directory: Collections/25f/randoop/5/Collections/randoop/1
+######  End test generation  /Users/mpolitano/development/builders/defects4j/framework/bin/gen_tests.pl: 2021-09-14 06:17:37  ######
